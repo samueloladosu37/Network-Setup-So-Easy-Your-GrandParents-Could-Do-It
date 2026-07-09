@@ -104,3 +104,6 @@ Available on the **Google Play Store**.
 
 **iOS**
 - iOS requires user approval every time the app wants to join a network — the **JOIN** button must be pressed
+
+**Acknowledgement**
+- Homemation, Luxul, Control4
