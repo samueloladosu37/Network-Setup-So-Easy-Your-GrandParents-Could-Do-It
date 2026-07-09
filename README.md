@@ -1,5 +1,5 @@
 # Network-Setup-So-Easy-Your-GrandParents-Could-Do-It
-Easy Setup guide for Network Switch (Luxul XWR-3150) and Router (ABR-5000) network installations for residential/commercial network configuration.
+Easy Setup guide for Wireless Controller (XWC-1000), Accesspoint (XAP-1610), Network Switch (AMS-4424P Managed Switch) and Router (XWR-3150, ABR-5000) network installations for residential/commercial network configuration.
 
 
 ## Scenario 1 — Medium Installation (280–370 sq. meters)
