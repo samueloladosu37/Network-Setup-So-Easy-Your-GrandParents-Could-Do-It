@@ -1,6 +1,6 @@
 # Network-Setup-So-Easy-Your-GrandParents-Could-Do-It
-Easy Setup guide for Wireless Controller (XWC-1000), Accesspoint (XAP-1610), Network Switch (AMS-4424P Managed Switch) and Router (XWR-3150, ABR-5000) for medium and large network installations or residential/commercial network configuration.
-
+Easy Setup Technical note on Network Setup for medium and large network installations or residential/commercial network configuration.
+Wireless Controller (XWC-1000), Accesspoint (XAP-1610), Network Switch (AMS-4424P Managed Switch) and Router (XWR-3150, ABR-5000)
 
 ## Scenario 1 — Medium Installation (280–370 sq. meters)
 
